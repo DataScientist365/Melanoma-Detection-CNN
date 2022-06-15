@@ -26,7 +26,7 @@
 
 ## Conclusions
 - Initially using 20 epochs, the model overfitted as the error in validation increased after a steep decrease, as the no of epochs increased.
--Then, using dropouts and augmentation, we solved the problem of overfitting.
+-Then, using dropouts and augmentation, we solved the problem of overfitting was solved partially, but it can be further solved by adding more layers, neurons, and hyperparameters o the model.
 
 ## Technologies Used
 - tensorflow
